@@ -1,0 +1,99 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: rgb(80, 192, 114)
+}
+.navbar-left{
+    padding-left: 15px;
+    
+}   
+.navbar-right{
+    padding-right: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+}
+.a-element{
+    width: 70px;
+    border: 2px solid ;
+    margin: 5px;
+    text-align: center;
+    color: blue;
+}
+.About{
+    color: white;
+    background-color: rgb(36, 27, 27);
+}
+.About1{
+    align-items: center;
+    font-size: x-large;
+    font-style: italic;
+   
+    
+}
+.About-bottom{
+  text-align: justify;
+  padding-right: 10px;
+}
+.About-top{
+    text-align: center;
+}
+.name{
+    color: rgb(0, 19, 185);
+    text-align: center;
+}
+.para{
+    color: lightslategrey;
+}
+.Eduation1{
+    padding: 20px;
+    background-color: black;
+    
+}
+.edu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    margin: 8px;
+    background: rgb(7, 6, 6);
+    
+}
+.details{
+    width: 60vw;
+    color: lightseagreen;
+}
+.photo{
+    padding: 20px;
+}
+.skill-set{
+    text-transform: uppercase;
+}
+.Skills{
+    border: 6px solid black;
+    color: white;
+    background-color: rgb(7, 6, 6) ;
+}
+.intro{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    font-style: italic;
+}
+.contact-sub {
+    color: springgreen;
+
+}
+
+.social-icon{
+    padding: 25px;
+   
+}
+.icon{
+    padding: 10px;
+    display: inline-block;
+}
